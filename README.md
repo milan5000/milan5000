@@ -2,11 +2,13 @@
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Alcryst)](https://github.com/anuraghazra/github-readme-stats)
 
+You can take a look at [my site](https://milan5000.github.io/) to see more!
+
+<!--
 I'm a college student studying engineering who enjoys programming and building new things. I have a wide range of interests within the field of computer science, including (but not limited to!) computer architecture, engineering simulation, and autonomous robotics.
 
 My general standard for projects is that the things I build should be able to help people in some way.
 
-<!--
 **Alcryst/Alcryst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
